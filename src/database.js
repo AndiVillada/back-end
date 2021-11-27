@@ -1,5 +1,5 @@
 const mongoose= require('mongoose')
-URI=('mongodb://localhost/bdNivelacion')
+URI=('mongodb+srv://villadaandi:contacto123456@cluster0.vr5dy.mongodb.net/Cluster0?retryWrites=true&w=majority')
 
 mongoose.connect(URI,{
     useNewUrlParser:true,
