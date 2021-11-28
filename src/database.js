@@ -1,3 +1,4 @@
+//crear los parametros de conexión de la bd
 const mongoose= require('mongoose')
 URI=('mongodb+srv://villadaandi:contacto123456@cluster0.vr5dy.mongodb.net/Cluster0?retryWrites=true&w=majority')
 
